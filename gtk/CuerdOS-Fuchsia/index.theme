@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=CuerdOS-Fuchsia
+Comment=A dark theme with vivid fuchsia accents on a near-black background. Part of the CuerdOS Pigments pack.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=CuerdOS-Fuchsia
+GtkTheme=CuerdOS-Fuchsia
+IconTheme=CuerdOS-Fuchsia
+MetacityTheme=CuerdOS-Fuchsia

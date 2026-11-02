@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=CuerdOS-Garnet
+Comment=A dark theme with deep garnet red accents on a near-black background. Part of the CuerdOS Pigments pack.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=CuerdOS-Garnet
+GtkTheme=CuerdOS-Garnet
+IconTheme=CuerdOS-Garnet
+MetacityTheme=CuerdOS-Garnet

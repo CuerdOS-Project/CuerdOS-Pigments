@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=CuerdOS-Amethyst
+Comment=A dark theme with amethyst purple accents on a near-black background. Part of the CuerdOS Pigments pack.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=CuerdOS-Amethyst
+GtkTheme=CuerdOS-Amethyst
+IconTheme=CuerdOS-Amethyst
+MetacityTheme=CuerdOS-Amethyst

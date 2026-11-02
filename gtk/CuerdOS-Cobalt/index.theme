@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=CuerdOS-Cobalt
+Comment=A dark theme with cobalt blue accents on a near-black background. Part of the CuerdOS Pigments pack.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=CuerdOS-Cobalt
+GtkTheme=CuerdOS-Cobalt
+IconTheme=CuerdOS-Cobalt
+MetacityTheme=CuerdOS-Cobalt

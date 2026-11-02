@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=CuerdOS-Viridian
+Comment=A dark theme in viridian green, with soft light-green text on a near-black background. Part of the CuerdOS Pigments pack.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=CuerdOS-Viridian
+GtkTheme=CuerdOS-Viridian
+IconTheme=CuerdOS-Viridian
+MetacityTheme=CuerdOS-Viridian

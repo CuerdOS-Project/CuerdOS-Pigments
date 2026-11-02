@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=CuerdOS-Teal
+Comment=A dark theme with cool teal accents on a near-black background. Part of the CuerdOS Pigments pack.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=CuerdOS-Teal
+GtkTheme=CuerdOS-Teal
+IconTheme=CuerdOS-Teal
+MetacityTheme=CuerdOS-Teal

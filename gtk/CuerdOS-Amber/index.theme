@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=CuerdOS-Amber
+Comment=A dark theme with warm amber accents on a near-black background. Part of the CuerdOS Pigments pack.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=CuerdOS-Amber
+GtkTheme=CuerdOS-Amber
+IconTheme=CuerdOS-Amber
+MetacityTheme=CuerdOS-Amber
